@@ -69,13 +69,11 @@ All 7 papers with full citations and BibTeX → **[peteraim.com/publications](ht
 
 ## ⚙️ Engineering ／ 工程
 
-Founding AI Engineer at **Genibuilder**（沛智科技）, Sep 2024 – Jul 2026. Owned the end-to-end AI platform (chatbot + ERP + CRM) as the company scaled, from first feature to large-scale production:
+Founding AI Engineer at **Genibuilder**（沛智科技）, Sep 2024 – Jul 2026. Owned the end-to-end AI platform (chatbot + ERP + CRM) as the company scaled, from the first feature to multi-tenant production serving 5+ businesses:
 
-- 🏗 **End-to-end AI system from scratch**: dataflow → inference → serving → monitoring, multi-tenant, designed for scalability
-- 💬 **LINE community, follower base up 400%**: architected the conversational AI platform behind a single client's community, sustaining thousands of requests per second
-- 📣 **AI marketing platform in two months**: delivered from scratch, putting AI chatbots into LINE and Facebook Messenger
-- ⚡ **−90% agent response latency**: a systematic rewrite of the Genii-S agent architecture, not a caching shortcut
-- 🔐 **ISO/IEC 27001:2022**: technical owner defining AI and systems security controls; audit passed Jul 2026
+- 🏗 **Multi-tenant AI system from scratch**: dataflow → inference → serving → monitoring on GCP, including the conversational AI behind a single client's LINE community (follower base up 400%)
+- 🔐 **ISO/IEC 27001:2022**: technical owner defining AI and systems security controls so our products run within an auditable governance framework; audit passed Jul 2026
+- 🎓 **Genii-Learning**: extended the AI agent platform into higher education, piloted at NCCU with 100+ users; mentored an intern to build its student platform
 
 ---
 
