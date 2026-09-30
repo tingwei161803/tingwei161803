@@ -21,7 +21,7 @@ Research Assistant · Institute of Information Science, Academia Sinica · Taipe
 
 ## 👋 About me ／ 關於我
 
-Physician-turned-AI engineer with an M.D. and an M.S. in Computer Science (NLP Lab, National Taiwan University). Built an end-to-end AI platform (chatbot + ERP + CRM) at a Taipei AI startup, covering dataflow, inference, serving and monitoring. First author of publications at COLM 2026 and BMJ Health & Care Informatics.
+Physician-turned-AI engineer with an M.D. and an M.S. in Computer Science (NLP Lab, National Taiwan University). Built an end-to-end AI platform (chatbot + CRM) at a Taipei AI startup, covering dataflow, inference, serving and monitoring. First author of publications at COLM 2026 and BMJ Health & Care Informatics.
 
 My research sits at the intersection of large language models and clinical medicine: continual LLM adaptation (COLM 2026), medical imaging AI (BMJ Health & Care Informatics 2025), and plain-language adaptation of medical texts (TREC PLABA 2024).
 
@@ -69,11 +69,13 @@ All 7 papers with full citations and BibTeX → **[peteraim.com/publications](ht
 
 ## ⚙️ Engineering ／ 工程
 
-Founding AI Engineer at **Genibuilder**（沛智科技）, Sep 2024 – Jul 2026. Owned the end-to-end AI platform (chatbot + ERP + CRM) as the company scaled, from the first feature to multi-tenant production serving 5+ businesses:
+Founding AI Engineer at **Genibuilder**（沛智科技）, Sep 2024 – Jul 2026. Owned the AI platform (chatbot + CRM) from first feature to multi-tenant production serving 5+ businesses:
 
-- 🏗 **Multi-tenant AI system from scratch**: dataflow → inference → serving → monitoring on GCP, including the conversational AI behind a single client's LINE community (follower base up 400%)
-- 🔐 **ISO/IEC 27001:2022**: technical owner defining AI and systems security controls so our products run within an auditable governance framework; audit passed Jul 2026
-- 🎓 **Genii-Learning**: extended the AI agent platform into higher education, piloted at NCCU with 100+ users; mentored an intern to build its student platform
+- 🏗 **Platform on GCP**: architected and built it, owning cloud architecture, deployment, and operations across dataflow, inference, serving, and monitoring
+- ⚡ **−90% agent latency**: redesigned the Genii-S agent architecture around parallel execution
+- 💬 **Flagship client's LINE community**: powered the conversational AI behind it, supporting 400% follower growth
+- 🔐 **Governed delivery**: AI-driven functional and security review gates in the delivery pipeline; as ISO 27001 technical owner, defined AI and system security controls; ISO/IEC 27001:2022 audit passed Jul 2026
+- 🎓 **Genii-Learning**: extended the platform into higher education, piloted at NCCU with 100+ users; mentored an intern who built its student platform
 
 ---
 
