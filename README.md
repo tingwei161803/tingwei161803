@@ -75,7 +75,6 @@ Founding AI Engineer at **Genibuilder**（沛智科技）, Sep 2024 – Jul 2026
 - 💬 **LINE community, follower base up 400%**: architected the conversational AI platform behind a single client's community, sustaining thousands of requests per second
 - 📣 **AI marketing platform in two months**: delivered from scratch, putting AI chatbots into LINE and Facebook Messenger
 - ⚡ **−90% agent response latency**: a systematic rewrite of the Genii-S agent architecture, not a caching shortcut
-- 💳 **Billing live in one week**: subscription and payments end-to-end, the company's first recurring revenue
 - 🔐 **ISO/IEC 27001:2022**: technical owner defining AI and systems security controls; audit passed Jul 2026
 
 ---
