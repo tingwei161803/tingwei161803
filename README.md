@@ -21,11 +21,11 @@ Research Assistant · Institute of Information Science, Academia Sinica · Taipe
 
 ## 👋 About me ／ 關於我
 
-Physician-turned-AI engineer with an M.D. and an M.S. in Computer Science (NLP Lab, National Taiwan University). Built an end-to-end AI platform (chatbot + ERP + CRM) for medical clinics at a Taipei AI startup, covering dataflow, inference, serving and monitoring. First author of publications at COLM 2026 and BMJ Health & Care Informatics.
+Physician-turned-AI engineer with an M.D. and an M.S. in Computer Science (NLP Lab, National Taiwan University). Built an end-to-end AI platform (chatbot + ERP + CRM) at a Taipei AI startup, covering dataflow, inference, serving and monitoring. First author of publications at COLM 2026 and BMJ Health & Care Informatics.
 
 My research sits at the intersection of large language models and clinical medicine: continual LLM adaptation (COLM 2026), medical imaging AI (BMJ Health & Care Informatics 2025), and plain-language adaptation of medical texts (TREC PLABA 2024).
 
-Outside research I read, then build some sites under peteraim.com covering conferences, medical AI, industry reports, startups and security ([See Projects](https://www.peteraim.com/projects/)). I also co-founded Beyond Medicine (醫外之境), a community empowering healthcare professionals to explore career paths beyond clinical practice.
+Outside research I build some sites under peteraim.com covering conferences, medical AI, industry reports, startups and security ([See Projects](https://www.peteraim.com/projects/)). I also co-founded Beyond Medicine (醫外之境), a community empowering healthcare professionals to explore career paths beyond clinical practice.
 
 ---
 
