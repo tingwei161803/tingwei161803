@@ -27,6 +27,8 @@ My research sits at the intersection of large language models and clinical medic
 
 Outside research I build some sites under peteraim.com covering conferences, medical AI, industry reports, startups and security ([See Projects](https://www.peteraim.com/projects/)). I also co-founded Beyond Medicine (醫外之境), a community empowering healthcare professionals to explore career paths beyond clinical practice.
 
+![GitHub contributions over the last 12 months](./profile-3d-contrib/profile-gitblock.svg)
+
 ---
 
 ## 🔬 Research ／ 研究
