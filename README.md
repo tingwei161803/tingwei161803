@@ -81,10 +81,11 @@ Founding AI Engineer at **Genibuilder**（沛智科技）, Sep 2024 – Jul 2026
 
 ---
 
-## 🏅 Awards ／ 獲獎
+## 🏅 Awards & Competitions ／ 獲獎與競賽
 
 | Year | |
 |---|---|
+| 2026 | **c0mpiled-18: YC Startup School Hackathon, Taipei**: built [unify-risk](https://github.com/tingwei161803/unify-risk) with [Matt](https://mattye.dev/), [Andrew](https://www.andrewshhuang.com/) and [Robert](https://www.linkedin.com/in/robert-chang-7a3b1b326/) in four hours. A browser app that runs published health-risk formulas on a person's answers and lab values, and shows the arithmetic, the source paper and the populations each formula was checked in. Designed the team's AI-native development workflow and coordinated the build |
 | 2024 | **AOCR2024 AI Challenge**: classification of acute appendicitis on contrast-enhanced CT. Ranked 8/122 in the first stage and 11/25 in the second |
 | 2022 | **Letter of appreciation from the TMUH superintendent**: produced 3D-printed organ models for donor body reconstruction after organ retrieval, across 10+ cases at TMUH, Wan Fang and Shuang Ho hospitals |
 | 2021 | **AI CUP 2021 Medical Dialog Analysis Competition**: ranked 17/368 |
@@ -103,7 +104,7 @@ Founding AI Engineer at **Genibuilder**（沛智科技）, Sep 2024 – Jul 2026
 
 ## 📚 Notes as websites ／ 讀完就做成網站
 
-I read, then build. 49 bilingual sites under `*.peteraim.com`, across 10 themes: conferences, medical AI, industry reports, startups, security and more.
+I read, then build. 52 bilingual sites under `*.peteraim.com`, across 10 themes: conferences, medical AI, industry reports, startups, security and more.
 
 | | |
 |---|---|
@@ -116,7 +117,7 @@ I read, then build. 49 bilingual sites under `*.peteraim.com`, across 10 themes:
 | 🛠 **[lazy-html · Data into Web Pages](https://lazy-html.peteraim.com/)** | A Claude tool that turns text, lists, files or a topic into a polished, interactive web page, no coding required ([repo](https://github.com/tingwei161803/lazy-html)) |
 | 🚀 **[CS183: Startup, Class Notes](https://stanford-cs183-startup.peteraim.com/)** | Bilingual study notes for Stanford's CS183 "Startup" lectures |
 
-**[Browse all 49 →](https://www.peteraim.com/projects/)** ｜ **[Conference timeline →](https://www.peteraim.com/events/)**
+**[Browse all 52 →](https://www.peteraim.com/projects/)** ｜ **[Conference timeline →](https://www.peteraim.com/events/)**
 
 ---
 
